@@ -1,0 +1,17 @@
+footer{
+    text-align: center;
+    margin-bottom: 0;
+}
+li{
+    list-style: none;
+}
+.fa-facebook, .fa-linkedin, .fa-instagram{
+    font-size: 35px;
+    color: white;
+    margin-top: 20px;
+    margin-right: 15px;
+ }
+ .tech{
+    padding-top: 30px;
+ }
+ 
